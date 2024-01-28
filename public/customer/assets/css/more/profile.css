@@ -1,0 +1,22 @@
+
+        .profile-value {
+            display: flex;
+            align-items: center;
+        }
+
+        input[type="radio"] {
+            transform: scale(0.5);
+            margin-right: 1px;
+        }
+
+        /* Optional: To style the labels */
+        .profile-component label {
+            margin-right: 15%;
+            font-size: 14px;
+            margin-bottom: 0px !important;
+        }
+
+        /* Optional: To style the labels */
+        .radio label {
+            font-size: 10px;
+        }
