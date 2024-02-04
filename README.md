@@ -1,10 +1,10 @@
 Demo: https://vhot.online/
 ______________________________
-User: taikhoankhach@gmail.com
-User password: taikhoankhach
+- User: taikhoankhach@gmail.com
+- User password: taikhoankhach
 ______________________________
-Admin: admin@gmail.com
-Admin password: admin@gmail.com
+- Admin: admin@gmail.com
+- Admin password: admin
 ______________________________
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
